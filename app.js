@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 let currancyconverter = {
     "USD": {
@@ -11,9 +12,9 @@ let currancyconverter = {
         "PKR": 1,
     },
     "EUR": {
-        "USD": 295.92,
+        "USD": 1.08,
         "EUR": 1,
-        "PKR": 1,
+        "PKR": 301.30,
     },
 };
 //Input Prompt

@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import {log} from"console";
 import inquirer from "inquirer";
 
@@ -14,9 +15,9 @@ let currancyconverter ={
 
 },
 "EUR":{
-    "USD":295.92,
+    "USD":1.08,
     "EUR":1,
-    "PKR":1,
+    "PKR":301.30,
 
 },
 }
